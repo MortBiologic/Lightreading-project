@@ -73,7 +73,7 @@
     "articles_author = []\n",
     "articles_date = []\n",
     "articles_text = []\n",
-    "article_link = []\n",
+    "articles_title = []\n",
     "article_final = []"
    ]
   },
@@ -227,7 +227,7 @@
     "'date': atricles_date,\n",
     "'text': articles_text,\n",
     "'title': articles_title,\n",
-    "'link': articles_final,\n",
+    "'link': article_final,\n",
     "})"
    ]
   }
